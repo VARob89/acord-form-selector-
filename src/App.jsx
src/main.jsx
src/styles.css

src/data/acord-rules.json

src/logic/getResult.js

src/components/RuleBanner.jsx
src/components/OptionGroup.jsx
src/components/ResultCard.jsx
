@@ -1,0 +1,11 @@
+src/App.jsx
+src/main.jsx
+src/styles.css
+
+src/data/acord-rules.json
+
+src/logic/getResult.js
+
+src/components/RuleBanner.jsx
+src/components/OptionGroup.jsx
+src/components/ResultCard.jsx
